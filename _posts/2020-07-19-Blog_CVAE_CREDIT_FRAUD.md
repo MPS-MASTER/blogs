@@ -1,4 +1,5 @@
 # Solving Data Imbalance  Problem using Generative modelling(CONDITIONAL VARIATIONAL AUTOENCODERS)
+### Written: 19 July 2020 by Mahesh Patel(My First AI Blog)
 
 
 
